@@ -1,0 +1,86 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden ;
+}
+.mani1{
+    background-color: black;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.mani2{
+margin-left: 1050px;
+padding-top: 125px;
+}
+.mani3{
+ margin-top: -1290px;
+ height: 100px;
+ margin-left: 90px;
+}
+.mani4{
+   margin-top: -150px;
+    margin-left: 250px;
+}
+.mani5{
+   margin-left: 1700px;
+   margin-top: -80px;
+   
+}
+.mani6 a {
+   
+  color: white;
+  text-decoration: none;
+  font-size: 25px;
+  margin-left: 50px;
+
+  
+}
+.mani7{
+    color: white;
+    font-size: 25px;
+    margin-top: 200px;
+    margin-left: 100px
+
+}
+.text{
+    font-size: 50px;
+}
+.mani8 button{
+   background-color:   rgb(228, 159, 11);
+    border: none;
+    border-radius: 50px;
+    margin-top: 50px;
+    height: 50px;
+    width: 150px;
+    color: white;
+    margin-left: 100px;
+    font-size: 25px;
+}
+.mi{
+    font-size: 10px;
+    color: rgb(228, 159, 11);
+    margin-left: 300px;
+    margin-top: -30px;
+}
+.mani9{
+    margin-left: 100px;
+    margin-top: 70px;
+}
+.mani10{
+    margin-top: -80px;
+    margin-left: 300px;
+}
+.mi1{
+    margin-left: 850px;
+    margin-top: -200px;
+}
+.mi2{
+    margin-left: 900px;
+    margin-top: -500px;
+}
+.mi3{
+    margin-left: 400px;
+    margin-top: -250px;
+}

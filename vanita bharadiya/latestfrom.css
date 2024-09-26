@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.mani{
+    background-color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+h1{
+    margin-left: 40%;
+    padding-top: 30px;
+    font-size: 45px;
+}
+p{
+    margin-left: 250px;
+    font-size: 22px;
+    padding-top: 60px;
+}
+.mani2{
+    background-color: aqua;
+    height: 40%;
+    width: 19%;
+}

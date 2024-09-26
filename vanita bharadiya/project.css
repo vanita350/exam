@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main1{
+   background-image: url(images/1.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;  
+  background-size: cover;
+}
+.mani2{
+    height: 550px;
+    width: 500px;
+    background-color: rgba(255, 255, 255, 0.603);
+    margin-left: 700px;
+    border-radius: 20px;
+    border: solid white 2px;
+}
+.mani3{
+    color: brown;
+    font-size: 25px;
+}
+.mani4 button{
+    height: 60px;
+    width: 400px;
+    margin-left: 60px;
+    margin-top: 60px;
+   color: brown;
+   background-color: rgba(209, 201, 201, 0.856);
+    border: none;
+    border-radius: 10px;
+}
+.mani5 button{
+    height: 60px;
+    width: 400px;
+    margin-left: 60px;
+    margin-top: 60px;
+   background-color: rgba(209, 201, 201, 0.856);
+   color: brown;
+    border: none;
+    border-radius: 10px;
+}
+.mani6 button{
+    height: 60px;
+    width: 400px;
+    margin-left: 60px;
+    margin-top: 60px;
+    color: rgb(248, 243, 243);
+    background-color: brown;
+    border: none;
+    border-radius: 10px;
+}
+.mani7{
+    color:brown;
+    margin-top: 60px;
+    margin-left: 60px;
+}
+.mani8{
+    color: brown;
+    margin-top: -30px;
+    margin-left: 350px;
+}
+.mani9{
+   margin-left: 500px;
+   height: 10px;
+   width: 10px;
+}
+.mani10{
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+.mani11{
+    margin-top: -450px;
+    margin-left: 400px;
+}
+.mani12{
+    margin-top: -80px;
+    margin-left:-400px ;
+}
+.mani13{
+    margin-left: 450px;
+    margin-top: -300px;
+}
+.mani14{
+    margin-left: -500px;
+}
+.mani15{
+    margin-left: -500px;
+    margin-top: 300px;
+}
+.mani16{
+    margin-left: -650px;
+    margin-top: -200px;
+}
+.mani17{
+    margin-left: 950px;
+    margin-top: -500px;
+}
+.mani18{
+    margin-left: 50px;
+    margin-top: -80px; 
+}
